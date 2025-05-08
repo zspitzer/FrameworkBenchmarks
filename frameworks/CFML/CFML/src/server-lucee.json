@@ -4,6 +4,14 @@
         "maxRequests" : 512
     },
     "app" : {
-        "cfengine" : "lucee@5.3.8"
+        "cfengine" : "lucee@6"
+    },
+    "runwar": {
+        "options": {
+            "cacheServletPaths": true
+        }
+    },
+    "jvm": {
+        "javaVersion": "openjdk24"
     }
 }

@@ -4,6 +4,14 @@
         "maxRequests":512
     },
     "app":{
-        "cfengine":"adobe@2021"
+        "cfengine":"adobe@2025"
+    },
+    "runwar": {
+        "options": {
+            "cacheServletPaths": true
+        }
+    },
+    "jvm": {
+        "javaVersion": "openjdk24"
     }
 }
