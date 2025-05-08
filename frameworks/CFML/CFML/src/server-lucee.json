@@ -4,7 +4,7 @@
         "maxRequests" : 512
     },
     "app" : {
-        "cfengine" : "lucee@6"
+        "cfengine" : "lucee@6.2.1"
     },
     "runwar": {
         "options": {
